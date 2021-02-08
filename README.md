@@ -17,6 +17,8 @@ As next steps, I would further refine the model to lower variance. I would simpl
 
 ### Contents
 
+- [PPT](./AMES_Sales_Prie_PPT.pdf)
+- [Code](./code)
 - [Train Data](./datasets/train.csv)
 - [Test Data](./datasets/test.csv)
 - [Kaggle Sales Price](./datasets/submit_7.csv)
